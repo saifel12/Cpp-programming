@@ -1,7 +1,7 @@
 #include<stdio.h>
 void main()
 {
-	printf("Name:Mohammad Saifullah\nRN:1/19/FET/BCS/183\n");
+	printf("Name:Mohammad Saifullah\n");
 	int x,y,z,sum;
 	x=5/6+4*3+2-3;
 	y=5/6*3+4*2/5+8-5;
